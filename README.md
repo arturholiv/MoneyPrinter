@@ -16,6 +16,8 @@ After you finished installing Python, you can install `MoneyPrinter` by followin
 git clone https://github.com/FujiwaraChoki/MoneyPrinter.git
 cd MoneyPrinter
 
+python -m pip install -U wheel
+
 # Install requirements
 pip install -r requirements.txt
 
